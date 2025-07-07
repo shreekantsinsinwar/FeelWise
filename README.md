@@ -24,7 +24,7 @@ Built with ❤️ using Python and inspired by the emotional intelligence model 
 - **Add Emotion**: Log current emotions, situations, and how you’re coping  
 - **History**: Review past entries and optionally play back reflections  
 - **Coping Strategies**: Find healthy methods to deal with emotions  
-- **Reports**: Auto-generated visual charts (bar + pie) of emotion patterns  
+- **Reports**: Auto-generated visual pie-charts of emotion patterns  
 - **Clear Buttons**: Wipe old data or just reset inputs
 
 ✅ **Safe & Local**  
@@ -45,6 +45,34 @@ Built with ❤️ using Python and inspired by the emotional intelligence model 
 
 - Python 3.10 or above  
 - `pip install -r requirements.txt` (Install dependencies)
+
+### Create the installer for your system.
+
+🪟 Windows (create .exe)
+```bash
+pip install pyinstaller
+pyinstaller --noconfirm --onefile --windowed main.py
+
+```
+
+🍎 macOS (create .app or .dmg)
+1. On MacOS System
+
+```bash
+pip install pyinstaller
+pyinstaller --noconfirm --windowed --onefile main.py --icon=icon.icns
+```
+2. To make a .dmg install
+```bash
+brew install create-dmg
+create-dmg 'dist/main.app'
+```
+
+🐧 Linux (create .AppImage)
+```bash
+pip install pyinstaller
+pyinstaller --onefile --windowed main.py
+```
 
 ### 📦 OR Download Executable (Recommended)
 
