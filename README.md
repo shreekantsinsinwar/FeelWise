@@ -92,9 +92,9 @@ Download the installer for your OS:
 
 
 - Main Logging Page
-> ! [Screenshot from 2025-07-07 15-09-12.png]
-> ! [Screenshot from 2025-07-07 15-09-28.png]
-> ! [Screenshot from 2025-07-07 15-09-50.png]
+> ! [Screenshot](Screenshot from 2025-07-07 15-09-12.png)
+> ! [Screenshot](Screenshot from 2025-07-07 15-09-28.png)
+> ! [Screenshot](Screenshot from 2025-07-07 15-09-50.png)
 
 ---
 
