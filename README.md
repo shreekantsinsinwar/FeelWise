@@ -92,11 +92,11 @@ Download the installer for your OS:
 
 
 - Main Logging Page
-> ! [Screenshot](Screenshot1.png)
+> ![Screenshot](Screenshot1.png)
 
-> ! [Screenshot](Screenshot2.png)
+> ![Screenshot](Screenshot2.png)
 
-> ! [Screenshot](Screenshot3.png)
+> ![Screenshot](Screenshot3.png)
 
 ---
 
