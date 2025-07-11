@@ -1,4 +1,4 @@
-# 🧠 GrowEI – Personal Emotional Intelligence Tracker
+# 🧠 FeelWise – Personal Emotional Intelligence Tracker
 
 A minimal, elegant, and research-backed desktop app to help you build emotional awareness, resilience, and reflection.
 
@@ -9,7 +9,7 @@ Built with ❤️ using Python and inspired by the emotional intelligence model 
 
 ## 🎯 Purpose
 
-**GrowEI** is a personal journaling tool to help you:
+**FeelWise** is a personal journaling tool to help you:
 - Track your emotions and situations across the day
 - Log your coping strategies (and revisit them later!)
 - Analyze your emotional trends visually (daily, weekly, monthly)
@@ -80,9 +80,9 @@ Download the installer for your OS:
 
 | Platform | Installer Link |
 |---------|----------------|
-| 🪟 Windows | `GrowEI.exe` |
-| 🍎 macOS | `GrowEI.dmg` |
-| 🐧 Linux | `GrowEI.AppImage` |
+| 🪟 Windows | `FeelWise.exe` |
+| 🍎 macOS | `FeelWise.dmg` |
+| 🐧 Linux | `FeelWise.AppImage` |
 
 > No Python needed with these – just install and launch!
 
